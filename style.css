@@ -1,0 +1,56 @@
+.text{
+    padding: 100px 100px;
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: top 460px right 450px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.imgs{
+    padding: 150px 150px;
+    background-image: url(images/bg-1.png);
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.x{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.card text{
+    text-align: center;
+}
+.orange{
+    color: orange;
+}
+.xa{
+    padding-bottom: 100px;
+}
+.head{
+    padding-bottom: 70px;
+}
+.g1{
+    padding-top: 60px;
+     padding-bottom: 30px;
+}
+.g2{
+    padding-top: 30px;
+      padding-top: 30px;
+}
+.container-m{
+    padding-bottom: 70px;
+}
+.carousel-indicators{
+    padding-left: 650px;
+}

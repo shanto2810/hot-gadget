@@ -3,6 +3,7 @@
     background-image: url(images/bg-2.png);
     background-repeat: no-repeat;
     background-position: top 460px right 450px;
+    padding-bottom: 400px !important;
 }
 .buy-now-button{
     background-color: black;
@@ -13,7 +14,11 @@
     cursor: pointer;
 }
 .imgs{
-    padding: 150px 150px;
+    height: 500px !important;
+    width: 600px !important;
+    padding-left: 80px;
+    padding-top: 0px;
+    padding-bottom: 0px ;
     background-image: url(images/bg-1.png);
     background-size:contain ;
     background-repeat: no-repeat;
@@ -22,6 +27,8 @@
     border: none;
     border-radius: 15px;
     box-shadow: 5px 5px 10px lightgray;
+    height: 200px;
+    width: 200px;
 }
 .x{
     border: none;
@@ -53,4 +60,37 @@
 }
 .carousel-indicators{
     padding-left: 650px;
+}
+.card-img-top{
+    height: 150px;
+    width: 150px;
+     padding-left: 50px;
+     padding-top: 50px;
+     padding-bottom: 40px;
+
+}
+.x1{
+    height: 200px;
+    width: 150px;
+
+}
+.l{
+    padding-bottom: 50px;
+}
+.l2{
+    padding-bottom: 20px;
+    padding-top: 100px;
+}
+.cw{
+    width: 350px;
+    height: 1000px;
+}
+.c1{
+    height: 300px;
+    width: 300px;
+     padding-left: 5px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-top: 5px;
+
 }

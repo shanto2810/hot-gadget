@@ -1,5 +1,5 @@
 .text{
-    padding: 100px 100px;
+    padding: 120px 150px;
     background-image: url(images/bg-2.png);
     background-repeat: no-repeat;
     background-position: top 460px right 450px;
@@ -32,7 +32,12 @@
 }
 .x{
     border: none;
-    border-radius: 20px;
+    border-radius: 20px 0px 20px 0px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.x10{
+    border: none;
+    border-radius: 0px 20px 0px 20px;
     box-shadow: 5px 5px 20px lightgray;
 }
 .card text{
